@@ -7,8 +7,7 @@ body{
     background-color: #e5e5f7;
     position: relative;
     align-items: center;
-
-background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 9px ), repeating-linear-gradient( #cdb5ff55, #cdb5ff );
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 9px ), repeating-linear-gradient( #cdb5ff55, #cdb5ff );
 }
 
 /* Nav Section */
