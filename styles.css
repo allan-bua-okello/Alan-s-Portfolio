@@ -317,3 +317,17 @@ form button{
 form p {
     text-align: center;
 }
+
+.success_message {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4BB543;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    z-index: 3;
+    display: none;
+     /* Initially hidden */
+}
