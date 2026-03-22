@@ -11,9 +11,7 @@ body{
 }
 
 /* Nav Section */
-@media  {
-    
-}
+
 nav{
     position: absolute;
     display: flex;
@@ -108,7 +106,7 @@ a{
 /* Summary and About Section */
 .about_section{
     display: grid;
-    grid-template-columns: repeat(autofit, minmax(300px, 1fr));
+    grid-template-columns: repeat(autofit, minmax(250px, 1fr));
     max-width: 100vw;
 }
 
@@ -132,10 +130,6 @@ h2{
 }
 p{
     line-height: 2;
-}
-hr{
-    width: 50%;
-    text-align: center;
 }
 .projects{
     background-color: #1d1d1d;
